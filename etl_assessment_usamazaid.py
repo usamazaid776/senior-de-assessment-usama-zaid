@@ -121,5 +121,5 @@ if write_successful:
     if error_ratio > 0.05:
         print("Pipeline aborted: error threshold exceeded.")
     else:
-        print("✅ All tables written successfully.")
+        print("All tables written successfully.")
 
